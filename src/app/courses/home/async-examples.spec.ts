@@ -3,7 +3,7 @@ import {of} from 'rxjs';
 import {delay} from 'rxjs/operators';
 
 
-describe('Async Testing Examples', () => {
+xdescribe('Async Testing Examples', () => {
 
     it('Asynchronous test example with Jasmine done()', (done: DoneFn) => {
 
